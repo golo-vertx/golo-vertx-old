@@ -1,6 +1,6 @@
 package org.vertx.golo;
 
-import fr.insalyon.citi.golo.runtime.GoloClassLoader;
+import org.eclipse.golo.compiler.GoloClassLoader;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.vertx.java.test.TestVerticle;

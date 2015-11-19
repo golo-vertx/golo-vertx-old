@@ -1,6 +1,6 @@
 package org.vertx.golo.deploy.impl.golo;
 
-import fr.insalyon.citi.golo.runtime.GoloClassLoader;
+import org.eclipse.golo.compiler.GoloClassLoader;
 import org.vertx.java.deploy.Verticle;
 import org.vertx.java.deploy.VerticleFactory;
 import org.vertx.java.deploy.impl.VerticleManager;

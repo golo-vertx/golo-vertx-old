@@ -9,3 +9,5 @@ nul
 .classpath
 .project
 
+.gradle
+build
