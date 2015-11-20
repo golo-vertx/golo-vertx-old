@@ -1,6 +1,10 @@
 apply plugin: 'java'
 apply plugin: 'maven'
 
+test{
+	testLogging.showStandardStreams = true
+}
+
 group = 'vertx-golo'
 version = '1.0-SNAPSHOT'
 
